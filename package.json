@@ -1,0 +1,19 @@
+{
+  "name": "lantern-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Find remembered stories offline, with exact source passages and line references.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "setup:model": "node scripts/setup-model.mjs",
+    "test": "node --test test/core.test.mjs",
+    "test:model": "node --test test/model.test.mjs",
+    "demo": "node scripts/demo.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "3.8.1"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "recordedAt": "2026-10-29T05:10:46.188Z",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "node": "v22.23.1",
+  "model": "Xenova/all-MiniLM-L6-v2",
+  "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+  "modelLoadMs": 187.885584,
+  "indexMs": 23.16108300000002,
+  "files": 4,
+  "passages": 12,
+  "attemptedRequests": 0,
+  "maxRSSKiB": 191280,
+  "results": [
+    {
+      "question": "What lit the way during the power outage?",
+      "model": "Xenova/all-MiniLM-L6-v2",
+      "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+      "threshold": 0.35,
+      "matches": [
+        {
+          "file": "01-lantern-keeper.txt",
+          "start": 57,
+          "end": 248,
+          "lineStart": 3,
+          "lineEnd": 3,
+          "quote": "When the storm cut the village electricity, we carried candles from door to door. Mr Vale put his brass lantern in the upstairs window so nobody would miss the turn beside the flooded bridge.",
+          "similarity": 0.4381872444724291
+        }
+      ],
+      "elapsedMs": 3.7967079999999953
+    },
+    {
+      "question": "Who fixed the broken timepiece?",
+      "model": "Xenova/all-MiniLM-L6-v2",
+      "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+      "threshold": 0.35,
+      "matches": [
+        {
+          "file": "03-clock.txt",
+          "start": 57,
+          "end": 231,
+          "lineStart": 3,
+          "lineEnd": 3,
+          "quote": "The clock above the station stopped at six minutes past midnight. Elsie repaired its spring with a piece from a broken pocket watch and wrote the date inside the wooden case.",
+          "similarity": 0.5305129517714621
+        }
+      ],
+      "elapsedMs": 3.3954999999999984
+    },
+    {
+      "question": "What gave the homemade loaf its citrus fragrance?",
+      "model": "Xenova/all-MiniLM-L6-v2",
+      "revision": "751bff37182d3f1213fa05d7196b954e230abad9",
+      "threshold": 0.35,
+      "matches": [
+        {
+          "file": "02-kitchen.txt",
+          "start": 55,
+          "end": 225,
+          "lineStart": 3,
+          "lineEnd": 3,
+          "quote": "Grandmother never measured the orange peel. She rubbed it into the sugar until the whole kitchen smelled of winter sunlight, then folded the mixture into the bread dough.",
+          "similarity": 0.48663651772403077
+        }
+      ],
+      "elapsedMs": 1.6001660000000015
+    }
+  ]
+}

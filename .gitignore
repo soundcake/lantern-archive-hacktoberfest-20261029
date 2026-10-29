@@ -1,0 +1,4 @@
+node_modules/
+.models/
+*.lantern.json
+demo/generated/

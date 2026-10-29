@@ -1,0 +1,26 @@
+LANTERN ARCHIVE
+
+Question: What lit the way during the power outage?
+
+1. 01-lantern-keeper.txt:3-3 | similarity 0.438
+   When the storm cut the village electricity, we carried candles from door to door. Mr Vale put his brass lantern in the upstairs window so nobody would miss the turn beside the flooded bridge.
+
+Exact source passages. Similarity is a ranking score, not a probability.
+
+LANTERN ARCHIVE
+
+Question: Who fixed the broken timepiece?
+
+1. 03-clock.txt:3-3 | similarity 0.531
+   The clock above the station stopped at six minutes past midnight. Elsie repaired its spring with a piece from a broken pocket watch and wrote the date inside the wooden case.
+
+Exact source passages. Similarity is a ranking score, not a probability.
+
+LANTERN ARCHIVE
+
+Question: What gave the homemade loaf its citrus fragrance?
+
+1. 02-kitchen.txt:3-3 | similarity 0.487
+   Grandmother never measured the orange peel. She rubbed it into the sugar until the whole kitchen smelled of winter sunlight, then folded the mixture into the bread dough.
+
+Exact source passages. Similarity is a ranking score, not a probability.
